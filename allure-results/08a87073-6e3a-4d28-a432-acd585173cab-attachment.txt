@@ -1,0 +1,30 @@
+The challenge headers are: [
+  'CONTACT US',
+  'LOGIN PORTAL',
+  'BUTTON CLICKS',
+  'TO DO LIST',
+  'PAGE OBJECT MODEL',
+  'ACCORDION & TEXT EFFECTS',
+  'DROPDOWNS, CHECKBOXES & RADIOS',
+  'AJAX LOADER',
+  'ACTIONS',
+  'SCROLLING AROUND',
+  'POPUPS & ALERTS',
+  'IFRAME',
+  'HIDDEN ELEMENTS',
+  'DATA TABLE',
+  'AUTOCOMPLETE TEXTFIELD',
+  'FILE UPLOAD',
+  'DATEPICKER',
+  'AI TESTING PLAYGROUNDNEW'
+]
+Hover Over Me First!
+[ 'Link 1' ]
+true
+Hover Over Me Second!
+[ 'Link 1' ]
+true
+Hover Over Me Third!
+[ 'Link 1', 'Link 2' ]
+true
+true

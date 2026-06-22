@@ -1,0 +1,41 @@
+The challenge headers are: [
+  'CONTACT US',
+  'LOGIN PORTAL',
+  'BUTTON CLICKS',
+  'TO DO LIST',
+  'PAGE OBJECT MODEL',
+  'ACCORDION & TEXT EFFECTS',
+  'DROPDOWNS, CHECKBOXES & RADIOS',
+  'AJAX LOADER',
+  'ACTIONS',
+  'SCROLLING AROUND',
+  'POPUPS & ALERTS',
+  'IFRAME',
+  'HIDDEN ELEMENTS',
+  'DATA TABLE',
+  'AUTOCOMPLETE TEXTFIELD',
+  'FILE UPLOAD',
+  'DATEPICKER',
+  'AI TESTING PLAYGROUNDNEW'
+]
+Hover Over Me First!
+Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 6151,
+  [Symbol(trigger_async_id_symbol)]: 6023,
+  [Symbol(kResourceStore)]: undefined
+}
+Hover Over Me Second!
+Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 8285,
+  [Symbol(trigger_async_id_symbol)]: 8157,
+  [Symbol(kResourceStore)]: undefined
+}
+Hover Over Me Third!
+Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 10372,
+  [Symbol(trigger_async_id_symbol)]: 10244,
+  [Symbol(kResourceStore)]: undefined
+}
