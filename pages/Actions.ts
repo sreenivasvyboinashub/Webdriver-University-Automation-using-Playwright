@@ -56,8 +56,8 @@ export class ActionClass {
             
             for (let j = 0; j < listCount; j++) {
                 console.log(await lists.nth(j).isVisible())
-                await lists.nth(j).click({ force: true })
-                                await lists.nth(j).click({button: "left"})
+                //await lists.nth(j).click({ force: true })
+                await lists.nth(j).click({button: "left"})
                // await this.page.mouse.down()
                 await this.page.waitForTimeout(5000)
 
@@ -66,6 +66,7 @@ export class ActionClass {
                 console.log(dialog.message())
                 await this.page.waitForTimeout(5000)
                 await dialog.accept()
+                
             })
 
             }
