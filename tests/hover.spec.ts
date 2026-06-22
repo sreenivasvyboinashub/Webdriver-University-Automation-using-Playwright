@@ -1,7 +1,7 @@
 import {test, expect} from '@playwright/test'
 import { BasePage } from '../pages/BasePage';
 import { HomePage } from '../pages/HomePage';
-import { ActionClass } from '../pages/actions';
+import { ActionClass } from '../pages/ActionsCls';
 
 
 test('hover test', async ({page}) => 
