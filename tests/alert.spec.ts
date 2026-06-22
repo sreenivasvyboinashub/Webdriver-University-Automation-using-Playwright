@@ -1,4 +1,5 @@
 import { test, expect } from '@playwright/test';
+import { dateGen } from '../utils/dategenerator';
 
 test("alerts", async ({ page }) => {
 
@@ -29,5 +30,7 @@ test("alerts", async ({ page }) => {
     expect(dialogCaptured).toBeTruthy();
     expect(dialogData.type).toBe("alert");
     expect(dialogData.message).toBe("I am an alert box!");
+    const dateGenfun = dateGen()
+    console.log(dateGenfun) //return util output here
 
 });
